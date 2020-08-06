@@ -4,5 +4,4 @@ board.each |board_space| do
   if board_space == " "
     counter += 1
 end
-
 end
