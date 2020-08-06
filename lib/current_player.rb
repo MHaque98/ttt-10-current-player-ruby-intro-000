@@ -5,4 +5,5 @@ board.each do |board_space|
     counter += 1
   end
 end
+return counter
 end
